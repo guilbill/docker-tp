@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/guilbill/docker-tp#readme",
   "dependencies": {
-    "async-redis": "^1.1.7"
+    "async-redis": "^2.0.0"
   }
 }
